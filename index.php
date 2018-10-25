@@ -2,7 +2,10 @@
 <html>
 <head>
 	<title>Course Land Homepage</title>
-	<?php include("meta.php"); ?> 
+<meta charset="UTF-8">
+<meta name="description" content="Course Land Homepage">
+<meta name="keywords" content="Course Land Homepage">
+<meta name="author" content="naijahacks">
 </head>
 <body>
   <?php include("navbar.php"); ?><br><br>
